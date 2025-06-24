@@ -29,6 +29,6 @@ Database: MySQL
 Open phpMyAdmin.
 Create a new database (e.g., trekking).
 Import the provided .sql file if available or create required tables manually.
-5.Run the Application: Open a web browser and navigate to http://localhost/Web_Tech_Frontend.
+5.Run the Application: Open a web browser and navigate to http://localhost/trekking/Trekking/.
 
 Happy Trekking! 🌄 Developed by: [CHANDAN PRAJAPATI]
